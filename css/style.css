@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-color{
+    background-color: #21B573;
+    color: white;
+}
+.navbar-container{
+    background-color: #F0FFF0;
+}
+.navbar-bg{
+    background-color: #F0FFF0;
+}
+.banner-container{
+    background-color: #F0FFF0;
+}
+.redtype-color{
+    color: #FD511A;
+}
+.greentype-color{
+    color:#21B573;
+}
+.line-space{
+    line-height: 35px;
+}
+.heading-size{
+    font-size: 50px;
+    line-height: 70px;
+}
+.info-bg{
+    background-color: #F8FFFB;
+}
+.info-br{
+    border-radius: 10px;
+}
