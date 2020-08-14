@@ -5,13 +5,7 @@ body{
     background-color: #21B573;
     color: white;
 }
-.navbar-container{
-    background-color: #F0FFF0;
-}
-.navbar-bg{
-    background-color: #F0FFF0;
-}
-.banner-container{
+.navbar-container, .navbar-bg, .banner-container{
     background-color: #F0FFF0;
 }
 .redtype-color{
@@ -19,6 +13,9 @@ body{
 }
 .greentype-color{
     color:#21B573;
+}
+.purpletype-color{
+    color: #6f4a8e;
 }
 .line-space{
     line-height: 35px;
@@ -32,4 +29,22 @@ body{
 }
 .info-br{
     border-radius: 10px;
+}
+.card{
+    border: none;
+}
+.card-body{
+    padding: 0;
+}
+.testimonial-container p{
+    margin-top: 20px;
+    line-height: 25px;
+}
+.footer-container{
+    background-color:#282531;
+}
+.footer-container ul li{
+    list-style-type: none;
+    font-size: 15px;
+    line-height: 30px;
 }
